@@ -36,4 +36,31 @@ Built using a scalable architecture with **Spring Boot REST APIs** and a modern 
  - Clean MVC architecture (Controller → Service → DAO)
  - Secure and scalable backend
  - Responsive UI using React
+
+--
+
+## Tech Stack
+🔹 **Backend**
+  - Java
+  - Spring Boot
+  - Spring Data JPA
+  - Spring Security (if used)
+  - Hibernate
+  - Maven
+--
+🔹 **Frontend**  
+  - React.js
+  - JavaScript 
+  - HTML
+  - CSS
+  - Bootstrap
+  - Axios
+--
+🔹 **Database**
+  - Git & GitHub
+  - Postman (API Testing)
+  - VS Code / Eclipse IDE
+--
+    
+
    
