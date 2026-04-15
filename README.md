@@ -13,7 +13,7 @@ Built using a scalable architecture with **Spring Boot REST APIs** and a modern 
 6. [Screenshots](#Screenshots)
 
 ## Features
--**User Authentication**
+--**User Authentication**
   - Secure user registration and login
   - Role-based access (Job Seeker / Recruiter)
   - Protected routes and session handling
