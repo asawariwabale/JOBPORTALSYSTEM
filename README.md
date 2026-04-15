@@ -64,5 +64,29 @@ Built using a scalable architecture with **Spring Boot REST APIs** and a modern 
   - VS Code / Eclipse IDE
 ---
     
+## Project Structure
+plaintext
+JOBPORTALSYSTEM
+│
+├── Job_Portal_SystemBackend   (Spring Boot Backend)
+│   ├── controller
+│   ├── service
+│   ├── dao / repository
+│   ├── model
+│   ├── config
+│   └── resources
+│       ├── application.properties
+│
+├── job_portal (React Frontend)
+│   ├── public
+│   ├── src
+│   │   ├── components
+│   │   ├── pages
+│   │   ├── services
+│   │   ├── context
+│   │   └── App.js
+│   ├── package.json
+│
+└── README.md
 
    
