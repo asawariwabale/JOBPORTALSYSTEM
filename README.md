@@ -187,6 +187,11 @@ npm start
 <img width="1876" height="915" alt="Screenshot 2026-04-15 162711" src="https://github.com/user-attachments/assets/2ccfc269-7fdf-45e3-97f7-87474cb293de" />
 
 ---
+### Applied Page
+<img width="1886" height="575" alt="Screenshot 2026-04-15 164201" src="https://github.com/user-attachments/assets/598ca97e-63af-4b1b-8e24-fe057edb27b8" />
+
+---
+
 ### Post Job Page
 <img width="1901" height="910" alt="Screenshot 2026-04-15 163056" src="https://github.com/user-attachments/assets/d7b1f275-a266-4e74-9a94-91a26813b60d" />
 
