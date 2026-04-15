@@ -178,24 +178,24 @@ npm start
    
 ### Screenshots
 
-### login page :
+### Home Page :
 
 <img width="1873" height="914" alt="Screenshot 2026-04-15 162635" src="https://github.com/user-attachments/assets/69e010f4-6c72-4528-a537-1a2a5f599693" />
 
 ---
-
+### Job Page
 <img width="1876" height="915" alt="Screenshot 2026-04-15 162711" src="https://github.com/user-attachments/assets/2ccfc269-7fdf-45e3-97f7-87474cb293de" />
 
 ---
-
+### Post Job Page
 <img width="1901" height="910" alt="Screenshot 2026-04-15 163056" src="https://github.com/user-attachments/assets/d7b1f275-a266-4e74-9a94-91a26813b60d" />
 
 ---
-
+### Login Page
 <img width="1899" height="911" alt="Screenshot 2026-04-15 163133" src="https://github.com/user-attachments/assets/f3ab9321-7281-4fa7-9552-3cc8341ae116" />
 
 ---
-
+## Register Page
 <img width="1899" height="914" alt="Screenshot 2026-04-15 163207" src="https://github.com/user-attachments/assets/04eba9c5-0212-4fa7-b198-7fc9278a93c3" />
 
 ---
