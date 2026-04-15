@@ -37,7 +37,7 @@ Built using a scalable architecture with **Spring Boot REST APIs** and a modern 
  - Secure and scalable backend
  - Responsive UI using React
 
---
+---
 
 ## Tech Stack
 🔹 **Backend**
@@ -47,7 +47,8 @@ Built using a scalable architecture with **Spring Boot REST APIs** and a modern 
   - Spring Security (if used)
   - Hibernate
   - Maven
---
+---
+
 🔹 **Frontend**  
   - React.js
   - JavaScript 
@@ -55,12 +56,13 @@ Built using a scalable architecture with **Spring Boot REST APIs** and a modern 
   - CSS
   - Bootstrap
   - Axios
---
+---
+
 🔹 **Database**
   - Git & GitHub
   - Postman (API Testing)
   - VS Code / Eclipse IDE
---
+---
     
 
    
