@@ -13,24 +13,24 @@ Built using a scalable architecture with **Spring Boot REST APIs** and a modern 
 6. [Screenshots](#Screenshots)
 
 ## Features
---**User Authentication**
+**User Authentication**
   - Secure user registration and login
   - Role-based access (Job Seeker / Recruiter)
   - Protected routes and session handling
 
--**Job Seeker Features**
+**Job Seeker Features**
   - Browse all available job listings
   - Search jobs by title, category, or keywords
   - Apply for jobs easily
   - View applied jobs and application status
     
--**Recruiter Features**
+**Recruiter Features**
   - Post new job openings
   - Edit and delete job posts
   - View list of applicants
   - Manage job postings efficiently
 
--**System Features**
+**System Features**
  - RESTful APIs using Spring Boot
  - MySQL database integration
  - Clean MVC architecture (Controller → Service → DAO)
